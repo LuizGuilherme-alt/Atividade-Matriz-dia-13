@@ -1,5 +1,5 @@
 <img width="179" height="142" alt="imagem" src="https://github.com/user-attachments/assets/187e7b7a-5860-4cfc-a095-ec765de5be7b" />
-<img width="179" height="142" alt="imagem" src="https://github.com/user-attachments/assets/ae28948c-c4b5-482d-9658-9ffc41312761" />
+
 CODIGO:
 
 /*
